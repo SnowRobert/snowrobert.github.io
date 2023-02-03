@@ -1,0 +1,4 @@
+I worked as React/TypeScript Front-End developer on Booking Flight & Stopover Web Application Version 2 project for the Etihad Airways for the 8 months in the Front-End Team.
+We don't use any online package and framework to building UI, and then We created and customized whole component based on React/Javascript/Html/CSS.
+
+https://www.etihad.com/en/

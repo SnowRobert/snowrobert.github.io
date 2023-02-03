@@ -1,0 +1,7 @@
+The client was looking for help to finish the 3rd phase of the application (he had some issue with the current team that was working on the project).
+
+That task was to complete the development of the Front-end of the application. There were a couple of base features, also styles and stability improvement.
+
+It was a big project and a big challenge, however, we took the project and finished it successfully!
+
+Stack: React.js, Next.js, Redux, Redux-saga, TypeScript.

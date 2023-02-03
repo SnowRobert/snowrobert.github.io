@@ -1,0 +1,10 @@
+Advertisement company had problems tracking employes workload and performance. Unforchonetly current solutions on the market couldn't satisfy their needs 100%.
+
+This application was developed from scratch.
+It has a dashboard that allows displaying all current, past and coming advertising campaigns depending on user access level. There's a set of filters and charts that make analytics work a pleasure and great result!
+
+Two months after it was launched client managed to allocate the workload in a better way. As a result, they took a couple more clients without hiring new employees!
+
+Stack:
+Front-End: ReactJs, Typescript, Redux, Redux-Saga.
+Back-End: Node.js, Typescript, MySQL.
