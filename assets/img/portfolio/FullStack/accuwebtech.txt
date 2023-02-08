@@ -1,0 +1,5 @@
+www.accuwebtech.com
+
+The EHR system's main goal is to document every patient interaction, view the patient's medical history and insurance information, and access it from anywhere. Traditional healthcare delivery models are ineffective due to constantly changing regulatory requirements. With the rapid growth of the healthcare industry, importing and exporting patient information from/to other EHR software is becoming increasingly important. Our EHR software supports interoperability that can be achieved using CCDA(Consolidated Clinical Document Architecture) which follows HL7(High-Level Seven) standards.
+
+For More Details Visit : https://www.accuwebtech.com/portfolio-view/pureehr-detail

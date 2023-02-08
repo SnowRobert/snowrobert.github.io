@@ -1,0 +1,7 @@
+www4.uwm.edu/water
+
+FreshWater Site About the project  Laravel-Vue Js Project. Educate the importance of fresh water. Introduce the main members of the protecting environment.
+
+ffmpeg -i speech.mp4 -i https://awsvideoconvert.s3.amazonaws.com/source/text_track.srt  -c:s mov_text video_cc.mp4
+
+ffmpeg -i speech.mp4 -i https://awsvideoconvert.s3.amazonaws.com/source/text_track.srt -vcodec copy -acodec copy -scodec copy -map 0:0 -map 0:1 -map 1:0 -y output.mkv
